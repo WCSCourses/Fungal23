@@ -1,21 +1,23 @@
-# Base repository
-
-Thank you for working with Wellcome Connecting Science Course! 
-
-This is an example repository to modify for Wellcome Connecting Science courses. 
-
-Check the course_data and modules repositories for info on how to add data and your course modules info
-
-# Course Name
-Base for the Polygenic Risk Scores course Repository
-
 ## Course overview
 
+The kingdom of Fungi includes a biologically diverse group of organisms adapted to different environmental niches, playing important roles in ecosystems, human/animal/plant health and global food security. Fusarium,Pyricularia, Ustilago, Puccinia, and Zymoseptoria species threaten agricultural ecosystems and food security worldwide, while Aspergillus, Candida, Mucor, Cryptococcus, Histoplasma, Coccidioides, Batrachochytrium and other fungal pathogens cause allergies, illnesses, and sometimes life-threatening infections that are of great concern for veterinary and medical professionals around the world. Furthermore, fungi are also important model systems for basic and applied research and workhorses in biotechnology, food, pharmaceutical, and biofuel industries.
 
-[Course website]()
+Advancements in high throughput ‘omics’ data generation technologies enable researchers to carry out large-scale analyses of genomes, transcriptomes, proteomes, and metabolomes of numerous fungal organisms to address questions about pathogenicity, host-pathogen interactions, and identify new drug targets. To facilitate accessibility and analysis, several web-based bioinformatic resources have been developed.
+
+This week-long course is a collaborative teaching effort between the following resources supporting fungal and oomycete species:
+
+- FungiDB/VEuPathDB
+- Ensembl Fungi
+- SGD/CGD
+- MycoCosm/JGI
+
+[Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/)
 
 ## Instructors
-- [Instrucotr](link),Affiliation
+- [David Roos](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
+- [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
+- [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
+
 
 ### Overview
 
