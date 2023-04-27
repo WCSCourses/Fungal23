@@ -28,21 +28,8 @@ This week-long course is a collaborative teaching effort between the following r
 
 
 ## Course manual
-**Module 1 - Mod 1**   
-[PDF Manual - Mod 1](Modules/)     
-
-
-
-**Module 3 - **  
-[Online Manual - Introduction to NGS](Modules/)
   
-**Module 4 -*  
-[Online Manual - Mod4l QC](Modules/)
-
-
-
-
-**Appendix**      
+[Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf)         
   
 
 
