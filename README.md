@@ -13,10 +13,25 @@ This week-long course is a collaborative teaching effort between the following r
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/)
 
-## Instructors
+## Course organisers
 - [David Roos](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
 - [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
+
+## Course instructors
+- [David Roos, FungiDB/VEuPathDB](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
+- [Evelina Basenko, FungiDB/VEuPathDB](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
+- [Kathryn Crouch, FungiDB/VEuPathDB](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), University of Glasgow, UK
+- [Stuart Brown, FungiDB/VEuPathDB](), University of Pennsylvania, USA
+- [Jodi Lewis, SGD/CGD]()
+- [Sara Calhoun, JGI MycoCosm]()
+- [Nishadi De Silva, EMBL-EBI](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
+- [Aleena Mushtag, EMBL-EBI](), EMBL-EBI, UK
+- [Manuel Carbajo, EMBL-EBI](), EMBL-EBI, UK
+
+
+
+
 
 
 ### Schedule
