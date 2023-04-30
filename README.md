@@ -19,15 +19,15 @@ This week-long course is a collaborative teaching effort between the following r
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
 
 ## Course instructors
-- [David Roos, FungiDB/VEuPathDB](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
-- [Evelina Basenko, FungiDB/VEuPathDB](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
-- [Kathryn Crouch, FungiDB/VEuPathDB](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), University of Glasgow, UK
-- [Stuart Brown, FungiDB/VEuPathDB](), University of Pennsylvania, USA
-- [Jodi Lewis, SGD/CGD]()
-- [Sara Calhoun, JGI MycoCosm]()
-- [Nishadi De Silva, EMBL-EBI](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
-- [Aleena Mushtag, EMBL-EBI](), EMBL-EBI, UK
-- [Manuel Carbajo, EMBL-EBI](), EMBL-EBI, UK
+- [David Roos](https://www.bio.upenn.edu/people/david-s-roos), FungiDB/VEuPathDB, University of Pennsylvania, USA
+- [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), FungiDB/VEuPathDB, University of Liverpool, UK
+- [Kathryn Crouch](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), FungiDB/VEuPathDB, University of Glasgow, UK
+- [Stuart Brown](), FungiDB/VEuPathDB, University of Pennsylvania, USA
+- [Jodi Lewis](), SGD/CGD, 
+- [Sara Calhoun](), JGI MycoCosm
+- [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
+- [Aleena Mushtag](), EMBL-EBI, UK
+- [Manuel Carbajo](), EMBL-EBI, UK
 
 
 
