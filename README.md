@@ -21,9 +21,11 @@ This week-long course is a collaborative teaching effort between the following r
 
 ### Overview
 
+### Schedule at glance
+[View Schedule at glance here](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/course_data/2023FPG_Course Schedule_v3.pdf)
 
 ### Detailed timetable
-[View Timetable here]()
+[View Timetable here](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/course_data/FPG2023_Timetable_v3.pdf)
 
 
 
