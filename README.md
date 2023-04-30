@@ -23,8 +23,8 @@ This week-long course is a collaborative teaching effort between the following r
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), FungiDB/VEuPathDB, University of Liverpool, UK
 - [Kathryn Crouch](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), FungiDB/VEuPathDB, University of Glasgow, UK
 - [Stuart Brown](), FungiDB/VEuPathDB, University of Pennsylvania, USA
-- [Jodi Lewis](), SGD/CGD, 
-- [Sara Calhoun](), JGI MycoCosm
+- [Jodi Lewis](), SGD/CGD, USA
+- [Sara Calhoun](https://biosciences.lbl.gov/profiles/sara-calhoun/), US Department of Energy Joint Genome Institute (JGI), USA
 - [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
 - [Aleena Mushtag](), EMBL-EBI, UK
 - [Manuel Carbajo](), EMBL-EBI, UK
