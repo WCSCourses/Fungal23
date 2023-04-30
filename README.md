@@ -19,17 +19,19 @@ This week-long course is a collaborative teaching effort between the following r
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
 
 
-### Overview
-
+### Schedule
+[View Schedule here](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/course_data/2023FPG_Course%20Schedule_v3.pdf)
 
 ### Detailed timetable
-[View Timetable here]()
+[View Timetable here](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/course_data/FPG2023_Timetable_v3.pdf)
 
 
 
 ## Course manual
   
-[Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf)         
+- [Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf) 
+- [Workshop modules and exercises](https://github.com/WCSCourses/fungpathgeno/blob/main/modules) 
+
   
 
 
