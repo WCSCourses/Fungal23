@@ -29,7 +29,9 @@ This week-long course is a collaborative teaching effort between the following r
 
 ## Course manual
   
-[Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf)         
+[Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf) 
+[Workshop modules and exercises](https://github.com/WCSCourses/fungpathgeno/blob/main/modules) 
+
   
 
 
