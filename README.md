@@ -13,10 +13,25 @@ This week-long course is a collaborative teaching effort between the following r
 
 [Course website](https://coursesandconferences.wellcomeconnectingscience.org/event/fungal-pathogen-genomics-20230509/)
 
-## Instructors
+## Course organisers
 - [David Roos](https://www.bio.upenn.edu/people/david-s-roos), University of Pennsylvania, USA
 - [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
 - [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), University of Liverpool, UK
+
+## Course instructors
+- [David Roos](https://www.bio.upenn.edu/people/david-s-roos), FungiDB/VEuPathDB, University of Pennsylvania, USA
+- [Evelina Basenko](https://www.liverpool.ac.uk/integrative-biology/staff/evelina-basenko/), FungiDB/VEuPathDB, University of Liverpool, UK
+- [Kathryn Crouch](https://www.gla.ac.uk/schools/infectionimmunity/staff/kathryncrouch/), FungiDB/VEuPathDB, University of Glasgow, UK
+- [Stuart Brown](), FungiDB/VEuPathDB, University of Pennsylvania, USA
+- [Jodi Lewis](), SGD/CGD, USA
+- [Sara Calhoun](https://biosciences.lbl.gov/profiles/sara-calhoun/), US Department of Energy Joint Genome Institute (JGI), USA
+- [Nishadi De Silva](https://www.ebi.ac.uk/about/people/nishadi-de-silva), EMBL-EBI, UK
+- [Aleena Mushtag](), EMBL-EBI, UK
+- [Manuel Carbajo](), EMBL-EBI, UK
+
+
+
+
 
 
 ### Schedule
@@ -29,8 +44,8 @@ This week-long course is a collaborative teaching effort between the following r
 
 ## Course manual
   
-- [Pre-course material](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf) 
-- [Workshop modules and exercises](https://github.com/WCSCourses/fungpathgeno/blob/main/modules) 
+- [Pre-course material: Introductory module](https://github.com/WCSCourses/fungpathgeno/blob/main/modules/Introductory%20module/FPG2023%20Introductory%20module.pdf) 
+- [FPG2023 Workshop modules and exercises](https://github.com/WCSCourses/fungpathgeno/blob/main/modules) 
 
   
 
